@@ -26,3 +26,9 @@ S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+7
+main.go,0/6/0607f785dfa3c3861b3239f6723eb276d8056461
+G
+adapters/cli/product.go,b/6/b6b824f44e59e4da57a2201884766aa2033d4644
+L
+adapters/cli/product_test.go,8/9/89fcc04822c51d962ad2c2ea04ac1591ba292872

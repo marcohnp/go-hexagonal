@@ -70,8 +70,8 @@ func (m *MockProductInterface) GetID() string {
 	return ret0
 }
 
-// GetId indicates an expected call of GetId.
-func (mr *MockProductInterfaceMockRecorder) GetId() *gomock.Call {
+// GetID indicates an expected call of GetID.
+func (mr *MockProductInterfaceMockRecorder) GetID() *gomock.Call {
 	mr.mock.ctrl.T.Helper()
 	return mr.mock.ctrl.RecordCallWithMethodType(mr.mock, "GetID", reflect.TypeOf((*MockProductInterface)(nil).GetID))
 }
