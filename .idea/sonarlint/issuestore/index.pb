@@ -32,3 +32,10 @@ G
 adapters/cli/product.go,b/6/b6b824f44e59e4da57a2201884766aa2033d4644
 L
 adapters/cli/product_test.go,8/9/89fcc04822c51d962ad2c2ea04ac1591ba292872
+;
+cmd/root.go,c/4/c465f5893973a8e58aa313a12b171bc0b0f15b77
+:
+
+cmd/cli.go,d/e/de34da5a7d36cac165b57ee2214a23e543d7e749
+7
+LICENSE,0/3/0398ccd0f49298b10a3d76a47800d2ebecd49859
