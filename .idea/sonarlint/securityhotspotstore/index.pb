@@ -39,3 +39,15 @@ L
 cmd/cli.go,d/e/de34da5a7d36cac165b57ee2214a23e543d7e749
 7
 LICENSE,0/3/0398ccd0f49298b10a3d76a47800d2ebecd49859
+M
+adapters/web/server/server.go,6/2/6226a42bcf07cac87ad50efb578b22a102c1decc
+P
+ adapters/web/handler/produtct.go,1/6/164c56ab30d2103161071afa4fefcb3e7c3ff7ea
+R
+"adapters/web/handler/error_json.go,c/e/ce1f45f8f80275cfb25aecf5f4c952bda4db9331
+W
+'adapters/web/handler/error_json_test.go,c/2/c26d7b800de1deaf297731247025f868dab91b83
+;
+cmd/http.go,2/1/2150bb40d97ebaf16f086e3d2f4c9ad0c0c9a862
+G
+adapters/dto/product.go,2/b/2ba7cd3d65ba7340c8301a71387b18e574dad9c7
